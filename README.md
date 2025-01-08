@@ -1,3 +1,6 @@
+# The app is deployed on Netlify platform
+## Here is the link to the Page: [https://visionary-florentine-f0952e.netlify.app/]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
